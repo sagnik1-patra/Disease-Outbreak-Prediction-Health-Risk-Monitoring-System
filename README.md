@@ -1,4 +1,4 @@
-# 🩺 MediScan — AI-Powered Disease Outbreak Prediction & Health Risk Monitoring System
+# 🩺 MediScan — AI-Powered Disease Outbreak Prediction & Health Risk Monitoring System.
 
 **MediScan** is an AI-driven epidemic forecasting and health-risk monitoring platform that predicts infectious disease outbreaks based on climate, hospital, and environmental sensor data.  
 This version uses a **Hybrid AIS + CSA (Artificial Immune System + Crow Search Algorithm)** optimizer to fine-tune CNN + LSTM model hyperparameters for accurate outbreak prediction.
